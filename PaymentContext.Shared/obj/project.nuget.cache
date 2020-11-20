@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M44n7/HfwXbXOwXhSvdEQXV5w1DpXUO2rRahyOJR6cBa9OcaoYaTJwTbLjTob75W4k7AaHR6k/BmTDY9eU0R0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\Documents\\Estudos\\.NET\\Balta.IO\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
